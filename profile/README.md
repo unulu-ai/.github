@@ -11,6 +11,6 @@
 <p align="center">
   <a href="https://unulu.ai">Website</a> &middot;
   <a href="https://unulu.ai/llms.txt">Docs</a> &middot;
-  <a href="https://unulu.ai/openapi.yaml">API</a> &middot;
+  <a href="https://unulu.ai/openapi.json">API</a> &middot;
   <a href="https://github.com/unulu-ai/unulu">Get Started</a>
 </p>
