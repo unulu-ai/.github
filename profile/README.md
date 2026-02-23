@@ -5,7 +5,7 @@
 <h3 align="center">AI agent website builder</h3>
 
 <p align="center">
-  Create and publish link-in-bio sites via MCP server or REST API.
+  Starting with link-in-bio sites. Create and publish via MCP server or REST API.
 </p>
 
 <p align="center">
