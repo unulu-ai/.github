@@ -12,7 +12,7 @@
   <a href="https://unulu.ai">Website</a> &middot;
   <a href="https://unulu.ai/docs">Docs</a> &middot;
   <a href="https://unulu.ai/llms.txt">llms.txt</a> &middot;
-  <a href="https://unulu.ai/.well-known/mcp/server.json">MCP</a> &middot;
+  <a href="https://unulu.ai/.well-known/mcp/server.json">MCP discovery</a> &middot;
   <a href="https://unulu.ai/openapi.json">API</a> &middot;
   <a href="https://github.com/unulu-ai/unulu">Get Started</a>
 </p>
